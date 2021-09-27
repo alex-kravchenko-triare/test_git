@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FAA5898B270226F300E9A20F /* File2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA5898A270226F300E9A20F /* File2.swift */; };
 		FAE5BF3D2701FBD6000F65B4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE5BF3C2701FBD6000F65B4 /* AppDelegate.swift */; };
 		FAE5BF3F2701FBD6000F65B4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE5BF3E2701FBD6000F65B4 /* SceneDelegate.swift */; };
 		FAE5BF412701FBD6000F65B4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE5BF402701FBD6000F65B4 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FAA5898A270226F300E9A20F /* File2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File2.swift; sourceTree = "<group>"; };
 		FAE5BF392701FBD6000F65B4 /* FisrtProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FisrtProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAE5BF3C2701FBD6000F65B4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAE5BF3E2701FBD6000F65B4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				FAE5BF3E2701FBD6000F65B4 /* SceneDelegate.swift */,
 				FAE5BF402701FBD6000F65B4 /* ViewController.swift */,
 				FAE5BF422701FBD6000F65B4 /* Main.storyboard */,
+				FAA5898A270226F300E9A20F /* File2.swift */,
 				FAE5BF452701FBDC000F65B4 /* Assets.xcassets */,
 				FAE5BF472701FBDC000F65B4 /* LaunchScreen.storyboard */,
 				FAE5BF4A2701FBDC000F65B4 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAA5898B270226F300E9A20F /* File2.swift in Sources */,
 				FAE5BF412701FBD6000F65B4 /* ViewController.swift in Sources */,
 				FAE5BF3D2701FBD6000F65B4 /* AppDelegate.swift in Sources */,
 				FAE5BF3F2701FBD6000F65B4 /* SceneDelegate.swift in Sources */,
